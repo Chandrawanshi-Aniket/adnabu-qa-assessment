@@ -37,7 +37,7 @@ The following happy-path scenario is automated:
 
 - `test_search_add_to_cart.py` → Automation script
 - `test_cases.md` → Manual test cases
-- `requirements.txt` → Required Python dependencies
+- `requirement.txt` → Required Python dependencies
 
 ---
 
