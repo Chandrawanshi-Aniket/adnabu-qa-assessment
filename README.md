@@ -45,7 +45,8 @@ The following happy-path scenario is automated:
 
 ### 1. Clone the repository
 
-git clone https://github.com/Chandrawanshi-Aniket/adnabu-qa-assessment.git
+git clone https://github.com/Chandrawanshi-Aniket/adnabu-qa-assessment.git  
+
 cd adnabu-qa-assessment
 
 ### 2. Install Dependencies
